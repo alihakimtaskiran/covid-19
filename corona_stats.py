@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  5 13:52:08 2020
-
-@author: ali
-"""
-
 import time
 import notify2 as not2
 import requests
