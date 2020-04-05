@@ -9,4 +9,4 @@ Türkiyedeki Covid-19 vaka,vefat ve iyileşen sayısını saatte bir bildirim ol
 <img src="/startup_app.png">
 -Daha sonra isme <code>Covid-19</code> comut kısmına da <code>python [corona_stats.py dosyasının konumu]</code> yazın ve add'a basın.
 <img src="add new.png">
--Son olarak oturumunuzu kapatıp açın ve bildirimleri alın.
+-Son olarak bilgisayarınızı yeniden başlatın ve bildirimleri alın.
